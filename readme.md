@@ -1,16 +1,5 @@
 # hazir
+## HU Attendance App
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Project Overview
+Hazir is a hybrid app for monitoring your attendance in real-time. This app is exclusively for Habib University's students, for now. The sole purpose of this app is to replace the current monitoring system of checking attendance. The current system is on Habib's PeopleSoft portal aka PSCS. The need to replace their system and create something was triggered by many serious issues that students face right now. Despite having an poor UI, PSCS also lacks in terms of functionality. The user experience is far from satisfaction. User have to crawl through multiple webpages to check their attendance daily. On top of that, PSCS shows all the courses (EVEN THE DROPPED ONES) in its roster. There are many more UI/UX blunders in their system. 
